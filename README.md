@@ -1,5 +1,7 @@
 # FlowPilot — AI Workflow Automation Landing Page
 
+![FlowPilot preview](assets/site-preview.svg)
+
 A polished portfolio landing page concept for an AI workflow automation product.
 
 ## Portfolio objective
@@ -33,6 +35,10 @@ The hero answers **what it is, who it helps, and why it matters** before asking 
 - Dashboard CTA micro-interaction
 - Hover elevation on product/feature cards
 - Animated final CTA visual
+- Visible keyboard focus states
+
+## SEO/accessibility
+Theme metadata, Open Graph metadata, structured data, robots.txt, sitemap.xml, reduced-motion support and keyboard focus states are included.
 
 ## Tech
 HTML5 · CSS3 · Vanilla JavaScript
